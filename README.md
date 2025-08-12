@@ -1,5 +1,7 @@
 Krishna is an aspiring Data Scientist.
 
+Currently Learning numpy
+
 <!--
 **krishnaluharuka6/Krishnaluharuka6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
