@@ -3,6 +3,15 @@ Krishna is an aspiring Data Scientist.
 I know python, numpy
 Currently learning pandas
 
+
+
+#Tech Stack:
+
+<img height="30" src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto"  />  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" />
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=krishnaluharuka6)
 <!--
 **krishnaluharuka6/Krishnaluharuka6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
