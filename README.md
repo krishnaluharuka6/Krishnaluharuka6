@@ -7,7 +7,7 @@ Currently learning pandas
 
 #Tech Stack:
 
-<img height="30" src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto"  />  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" />  <img height="30" src="https://cdn.simpleicons.org/numpy?viewbox=auto" />   <img height="30" src="https://cdn.simpleicons.org/php?viewbox=auto" />  <img height="30" src="https://cdn.simpleicons.org/python?viewbox=auto" />
+<img height="30" src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto"  />  <img height="30" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" />  <img height="30" src="https://cdn.simpleicons.org/numpy?viewbox=auto" />   <img height="30" src="https://cdn.simpleicons.org/php?viewbox=auto" />  <img height="30" src="https://cdn.simpleicons.org/python?viewbox=auto" />  <img height="30" src="https://cdn.simpleicons.org/laravel?viewbox=auto" />
 
 
 
