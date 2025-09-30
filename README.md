@@ -1,11 +1,22 @@
-<h2>🎵📊 Krishna Luharuka</h2>
+<h1>🎵📊 Krishna Luharuka</h1>
 <h4> 🎓 Bachelors of Information Management | 💻 Data Science Enthusiast | 🛠️ Computer Technician (Internship Experience)  </h4>
 
-I’m Krishna, passionate about **Data Science** and continuously exploring how data shapes decisions. With a foundation in **Information Management** and hands-on skills as a **Computer Technician**, I’m now focused on building my journey as a **Data Scientist**.  
+<table>
+  <tr>
+    <td style="padding-left:20px; vertical-align:top;">
+      <p> I’m Krishna, passionate about <strong>Data Science</strong> and continuously exploring how data shapes decisions. With a foundation in <strong>Information Management</strong> and hands-on skills as a <strong>Computer Technician</strong>, I’m now focused on building my journey as a <strong>Data Scientist</strong>.<br><br>
+        🌱 Currently learning: <strong>Python, Pandas, NumPy</strong><br>
+        🎯 Goal: To grow as a <strong>Data Scientist</strong> and work on impactful projects<br>
+        ⚡ Fun fact: I wake up at <strong>5 AM</strong> to learn and code when my mind is fresh!
+      </p>
+    </td>
+    <td>
+      <img width="180" height="180" alt="image" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/refs/heads/master/Assets/Monkey_Kid_Coding.gif" />
+    </td>
+  </tr>
+</table>
 
-🌱 Currently learning: **Python, Pandas, NumPy**  
-🎯 Goal: To grow as a **Data Scientist** and work on impactful projects  
-⚡ Fun fact: I wake up at **5 AM** to learn and code when my mind is fresh!  
+
 
 ---
  
@@ -37,6 +48,14 @@ I’m Krishna, passionate about **Data Science** and continuously exploring how 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30"/> &nbsp;
   <img height="30" src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto" alt="GitHub" /> &nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" /> &nbsp;
+
+  Hardware & IT
+  
+  🛠️ Computer Assembly and Hardware Troubleshooting &nbsp;
+  🖥️ Installing OS and 🐧Linux/Command Line Basics &nbsp;
+  🌐 Networking Basics &nbsp;
+  💾 Data Backup and Recovery and 🛡️ Basic Security Setup &nbsp;
+  💽 Peripheral Setup & Upgrades &nbsp;
   
 </p>
 
@@ -44,6 +63,7 @@ I’m Krishna, passionate about **Data Science** and continuously exploring how 
 ---
 
 ## 📊 GitHub Stats  
+
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaluharuka6&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaluharuka6&layout=compact&theme=tokyonight)  
 ![Streak Stats](https://streak-stats.demolab.com?user=krishnaluharuka6&theme=tokyonight)  
