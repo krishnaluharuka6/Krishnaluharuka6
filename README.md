@@ -1,5 +1,5 @@
-<h1>🎵📊 Krishna Luharuka</h1>
-<h4> 🎓 Bachelors of Information Management | 💻 Data Science Enthusiast | 🛠️ Computer Technician (Internship Experience)  </h4>
+<h1>👩‍💻 Krishna Luharuka</h1>
+<h4> 🎓 Bachelors of Information Management | 💻 Aspiring Data Scientist | 🛠️ IT Support Specialist </h4>
 
 <table>
   <tr>
