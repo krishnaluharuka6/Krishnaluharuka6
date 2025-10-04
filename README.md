@@ -1,26 +1,37 @@
 <h1>👩‍💻 Krishna Luharuka</h1>
-<h4> 🎓 Bachelors of Information Management | 💻 Aspiring Data Scientist | 🛠️ IT Support Specialist </h4>
+<h4> 🎓 Bachelors of Information Management | 💻 Web developer | 🛠️ IT Support Specialist  </h4> 
+<!--  💻 Aspiring Data Scientist -->
 
-<table>
+
+<!-- <table>
   <tr>
-    <td style="padding-left:20px; vertical-align:top;">
+    <td valign="top" width="900">
       <p> I’m Krishna, passionate about <strong>Data Science</strong> and continuously exploring how data shapes decisions. With a foundation in <strong>Information Management</strong> and hands-on skills as a <strong>Computer Technician</strong>, I’m now focused on building my journey as a <strong>Data Scientist</strong>.<br><br>
         🌱 Currently learning: <strong>Python, Pandas, NumPy</strong><br>
         🎯 Goal: To grow as a <strong>Data Scientist</strong> and work on impactful projects<br>
         ⚡ Fun fact: I wake up at <strong>5 AM</strong> to learn and code when my mind is fresh!
-      </p>
+      I am currently  exploring hardware side IT world. I code for what the world needs.
     </td>
-    <td>
+    <td valign="top" width="100">
       <img width="180" height="180" alt="image" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/refs/heads/master/Assets/Monkey_Kid_Coding.gif" />
     </td>
   </tr>
-</table>
+</table> -->
+
+<div>
+  <img width="180" height="180" align="right" alt="Monkey_Kid_Coding" src="https://github.com/user-attachments/assets/18499256-3270-47bf-9ca7-729ac69e2391" />
+<p align="left">I am currently  exploring hardware side IT world. I code for what the world needs.
+</p>
+<!-- <img width="180" height="180" alt="image" align="right" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/refs/heads/master/Assets/Monkey_Kid_Coding.gif" /> -->
+  
+</div>
 
 
 
----
+
+
  
-<h3 align="left">Skills and Tools:</h3>
+### Skills and Tools:
 <p align="left">
   Data Science & Python Stack
 
@@ -85,5 +96,13 @@
 
 ✨ *“Data is the new oil, and I’m learning how to refine it into knowledge.”* 
 I can deal with spaghetti code
+
+
+
+
+
+
+
+
 
 
