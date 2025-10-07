@@ -1,5 +1,5 @@
-<h1>👩‍💻 Krishna Luharuka</h1>
-<h4> 🎓 Bachelors of Information Management | 💻 Web developer | 🛠️ IT Support Specialist  </h4> 
+<h1 align="center"> ҜŘƗŞĦŇΔ ŁỮĦΔŘỮҜΔ </h1>                                                                                                                          
+<h4 align="center"> 🎓 Bachelors of Information Management | 💻 Web developer | 🛠️ IT Support Specialist  </h4> 
 <!--  💻 Aspiring Data Scientist -->
 
 
@@ -17,21 +17,22 @@
     </td>
   </tr>
 </table> -->
-
+<br>
 <div>
   <img width="180" height="180" align="right" alt="Monkey_Kid_Coding" src="https://github.com/user-attachments/assets/18499256-3270-47bf-9ca7-729ac69e2391" />
-<p align="left">I am currently  exploring hardware side IT world. I code for what the world needs.
+<p align="left">
+  I’m a dedicated IT enthusiast exploring different layers of tech from clean code to hardware setups and data-driven insights.
+  
+  - 💻 I code to bring ideas to life and solve real-world problems.
+  - 🧰 I fix things to uncover the logic behind systems and hardware.
+  - 📊 As a data scientist I turn curiosity and critical thinking into meaningful insights.
+  - 💡 Motto: Fall seven times, Stand up Eight.
 </p>
 <!-- <img width="180" height="180" alt="image" align="right" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/refs/heads/master/Assets/Monkey_Kid_Coding.gif" /> -->
   
-</div>
-
-
-
-
-
+</div> 
  
-### Skills and Tools:
+## Skills and Tools:
 <p align="left">
   Data Science & Python Stack
 
@@ -73,17 +74,20 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats   
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnaluharuka6&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaluharuka6&layout=compact&theme=tokyonight)  
-![Streak Stats](https://streak-stats.demolab.com?user=krishnaluharuka6&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaluharuka6&theme=tokyonight" alt="krishnaluharuka" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaluharuka6&show_icons=true&locale=en&theme=tokyonight" alt="krishnaluharuka" height="200"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaluharuka6&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="krishnaluharuka" height="160" /> -->
+</p>
 
----
+
+
 
 ## 🌐 Connect with Me  
 
-🔗 [Portfolio Website](your_portfolio_link_here)   
+🔗 [Portfolio Website](https://krishnaluharuka6.github.io/Portfolio-website/)   
 📧 Email: krishna.luharuka11@gmail.com 
 
 <p align="left">
