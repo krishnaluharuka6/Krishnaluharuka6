@@ -1,4 +1,4 @@
-<h1 align="center"> ҜŘƗŞĦŇΔ ŁỮĦΔŘỮҜΔ </h1>                                                                                                                          
+<h1 align="center"> ҜRISHNΔ LUHΔRUҜΔ </h1>                                                                                                                          
 <h4 align="center"> 🎓 MIT-AI Student | 💻 Teacher | 🛠️ Exploring AI and Research  </h4> 
 <!--  💻 Aspiring Data Scientist -->
 
