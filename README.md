@@ -60,13 +60,13 @@
   <img height="30" src="https://cdn.simpleicons.org/github/ffffff?viewbox=auto" alt="GitHub" /> &nbsp;
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" /> &nbsp;
 
-  Hardware & IT
+<!--  Hardware & IT
   
   🛠️ Computer Assembly and Hardware Troubleshooting &nbsp;
   🖥️ Installing OS and 🐧Linux/Command Line Basics &nbsp;
   🌐 Networking Basics &nbsp;
   💾 Data Backup and Recovery and 🛡️ Basic Security Setup &nbsp;
-  💽 Peripheral Setup & Upgrades &nbsp;
+  💽 Peripheral Setup & Upgrades &nbsp; -->
   
 </p>
 
