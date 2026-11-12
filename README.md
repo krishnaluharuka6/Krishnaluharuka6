@@ -1,5 +1,5 @@
 <h1 align="center"> ҜŘƗŞĦŇΔ ŁỮĦΔŘỮҜΔ </h1>                                                                                                                          
-<h4 align="center"> 🎓 Bachelors of Information Management | 💻 Web developer | 🛠️ IT Support Specialist  </h4> 
+<h4 align="center"> 🎓 MIT-AI Student | 💻 Teacher | 🛠️ Exploring AI and Research  </h4> 
 <!--  💻 Aspiring Data Scientist -->
 
 
@@ -19,20 +19,19 @@
 </table> -->
 <br>
 <div>
-  <img width="180" height="180" align="right" alt="Monkey_Kid_Coding" src="https://github.com/user-attachments/assets/18499256-3270-47bf-9ca7-729ac69e2391" />
+
+  <img width="236" height="157" align="right" alt="image" src="https://github.com/user-attachments/assets/de886fe9-6335-42d4-82df-54884b3ba954" />
+
 <p align="left">
-  I’m a dedicated IT enthusiast exploring different layers of tech from clean code to hardware setups and data-driven insights.
   
-  - 💻 I code to bring ideas to life and solve real-world problems.
-  - 🧰 I fix things to uncover the logic behind systems and hardware.
-  - 📊 As a data scientist I turn curiosity and critical thinking into meaningful insights.
-  - 💡 Motto: Fall seven times, Stand up Eight.
 </p>
 <!-- <img width="180" height="180" alt="image" align="right" src="https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/refs/heads/master/Assets/Monkey_Kid_Coding.gif" /> -->
   
 </div> 
  
-## Skills and Tools:
+  Skills and Tools: 
+
+---
 <p align="left">
   Data Science & Python Stack
 
@@ -74,11 +73,15 @@
 
 ---
 
-## 📊 GitHub Stats   
+
+Motto: Fall seven times, Stand up Eight.<br>
+Still learning, still experimenting, still breaking things—and occasionally figuring out why they broke. 😄
+
+<!-- ## 📊 GitHub Stats   
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaluharuka6&theme=tokyonight" alt="krishnaluharuka" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaluharuka6&show_icons=true&locale=en&theme=tokyonight" alt="krishnaluharuka" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaluharuka6&show_icons=true&locale=en&theme=tokyonight" alt="krishnaluharuka" height="200"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaluharuka6&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="krishnaluharuka" height="160" /> -->
 </p>
 
@@ -90,16 +93,13 @@
 🔗 [Portfolio Website](https://krishnaluharuka6.github.io/Portfolio-website/)   
 📧 Email: krishna.luharuka11@gmail.com 
 
-<p align="left">
+<p align="">
 <a href="https://linkedin.com/in/krishna luharuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna luharuka" height="30" width="40" /></a>
-<a href="https://fb.com/krishna luharuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna luharuka" height="30" width="40" /></a>
-<a href="https://instagram.com/krishna.luharuka11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.luharuka11" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/krishna luharuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna luharuka" height="30" width="40" /></a>
+<a href="https://instagram.com/krishna.luharuka11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.luharuka11" height="30" width="40" /></a> -->
 </p>
 
 ---
-
-✨ *“Data is the new oil, and I’m learning how to refine it into knowledge.”* 
-I can deal with spaghetti code
 
 
 
